@@ -1,0 +1,10 @@
+{"question": "What is the monthly price of the Team plan?", "expected_answer": "The Team plan costs $49 per user per month when billed annually.", "relevant_doc_ids": ["pricing-02", "pricing-01"]}
+{"question": "Does LumenDesk support single sign-on?", "expected_answer": "Yes, SSO with SAML 2.0 and OpenID Connect is available on the Enterprise plan.", "relevant_doc_ids": ["security-02", "pricing-03"]}
+{"question": "How long is ticket data retained on the Enterprise plan?", "expected_answer": "Ticket data is retained for 7 years by default on Enterprise.", "relevant_doc_ids": ["security-03"]}
+{"question": "What does AI triage do?", "expected_answer": "AI triage classifies incoming tickets by intent and urgency and suggests a reply draft and priority level.", "relevant_doc_ids": ["features-02"]}
+{"question": "Can I migrate from Zendesk to LumenDesk?", "expected_answer": "Yes, migration from Zendesk is free on all plans and preserves ticket history, comments, and attachments.", "relevant_doc_ids": ["onboarding-02"]}
+{"question": "What is the first response SLA on the Team plan?", "expected_answer": "The Team plan includes a 4-hour first response SLA for urgent tickets.", "relevant_doc_ids": ["support-02"]}
+{"question": "Which plans include automations?", "expected_answer": "Automations are available on the Team and Enterprise plans only.", "relevant_doc_ids": ["features-01"]}
+{"question": "Is LumenDesk SOC 2 certified?", "expected_answer": "Yes, LumenDesk is SOC 2 Type II certified and GDPR compliant.", "relevant_doc_ids": ["security-01"]}
+{"question": "How many agents does the Starter plan allow?", "expected_answer": "The Starter plan allows up to 10 agents and 5,000 tickets per month.", "relevant_doc_ids": ["limits-01"]}
+{"question": "What events do webhooks support?", "expected_answer": "Webhooks fire on ticket created, ticket updated, and ticket solved events.", "relevant_doc_ids": ["integrations-03"]}
