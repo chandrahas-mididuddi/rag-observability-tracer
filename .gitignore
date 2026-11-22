@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.db
+*.db-journal
+eval_report.json
+eval_report.md
+.pytest_cache/
+.DS_Store
